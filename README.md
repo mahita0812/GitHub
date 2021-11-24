@@ -36,3 +36,21 @@
   - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+### Table ()
+Name|Roll.Number
+----|----
+Mahita|1
+Bnksflod|2
+jdodoasjd|6
+dsfdoljsoak|12
+sdsidyhakdhiadids|23
+kdjoiasdosjxosz|45
+bdfjsahdsiajdk|5
+
+
+
+
+
+
+
