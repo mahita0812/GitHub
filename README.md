@@ -20,7 +20,7 @@
 1. List1
 2. List2
 
-### Task Lists(tab,-,[Name of the word],(link of the site))
+### links(tab,-,[Name of the word],(link of the site))
 - [ebox notes](https://docs.google.com/document/d/1B85cf7GLxn_tjGbFHpGYpPVvcMoO_m1eKKAadVWvqjI/edit)
 
 ### Nested Lists
@@ -31,3 +31,8 @@
 
 ### to insert an image(tab,!,[name of the image](image adress))
   ![Image](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif)
+  
+  ### Task lists
+  - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
